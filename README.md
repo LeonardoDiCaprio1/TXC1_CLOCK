@@ -12,8 +12,7 @@
     alt="Image description" width="600">
 </p>
 
-# 大作业实物展示
-- [哔哩哔哩](https://www.bilibili.com/video/BV1Sa4y127hj/)
+# 大作业实物展示（哔哩哔哩）
 <p align="center">
   <a href="https://www.bilibili.com/video/BV1Sa4y127hj/">
     <img src="https://github.com/LeonardoDiCaprio1/TXC1_CLOCK/blob/main/%E5%AE%9E%E7%89%A9.jpg"
