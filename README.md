@@ -14,12 +14,9 @@
 
 # 大作业实物展示
 - [哔哩哔哩](https://www.bilibili.com/video/BV1Sa4y127hj/)
-<div style="position: relative; text-align: center;">
+<p align="center">
   <a href="https://www.bilibili.com/video/BV1Sa4y127hj/">
     <img src="https://github.com/LeonardoDiCaprio1/TXC1_CLOCK/blob/main/%E5%AE%9E%E7%89%A9.jpg"
       alt="Image description" width="800">
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 24px;">
-      进入网站
-    </div>
   </a>
-</div>
+</p>
