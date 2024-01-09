@@ -11,5 +11,6 @@
   <img src="https://github.com/LeonardoDiCaprio1/TXC1_CLOCK/blob/main/results.png"
     alt="Image description" width="600">
 </p>
-# 项目链接展示
+
+# 大作业实物展示
 - [哔哩哔哩](https://www.bilibili.com/video/BV1Sa4y127hj/)
