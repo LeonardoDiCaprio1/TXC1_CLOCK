@@ -18,4 +18,8 @@
     <img src="https://github.com/LeonardoDiCaprio1/TXC1_CLOCK/blob/main/%E5%AE%9E%E7%89%A9.jpg"
       alt="Image description" width="800">
   </a>
+  
 </p>
+<a href="https://www.bilibili.com/video/BV1Sa4y127hj/">
+  <img src="https://github.com/LeonardoDiCaprio1/TXC1_CLOCK/blob/main/%E5%AE%9E%E7%89%A9.jpg" alt="Image description" title="原神启动！" width="800">
+</a>
