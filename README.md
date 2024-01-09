@@ -18,36 +18,3 @@
   <img src="https://github.com/LeonardoDiCaprio1/TXC1_CLOCK/blob/main/%E5%AE%9E%E7%89%A9.jpg"
     alt="Image description" width="800">
 </p>
-
-[![bilibili](https://github.com/LeonardoDiCaprio1/TXC1_CLOCK/blob/main/%E5%AE%9E%E7%89%A9.jpg)](https://www.bilibili.com/video/BV1Sa4y127hj/)
-
-<div align="center">
-  <a href="https://www.bilibili.com/video/BV1Sa4y127hj/" target="_blank" class="image-container">
-    <img src="https://github.com/LeonardoDiCaprio1/TXC1_CLOCK/blob/main/%E5%AE%9E%E7%89%A9.jpg" alt="bilibili" width="700">
-    <div class="overlay-text">进入</div>
-  </a>
-</div>
-
-<style>
-  .image-container {
-    position: relative;
-    display: inline-block;
-  }
-
-  .overlay-text {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 24px;
-    color: white;
-    background-color: rgba(0, 0, 0, 0.5);
-    padding: 10px;
-    opacity: 0;
-    transition: opacity 0.3s ease;
-  }
-
-  .image-container:hover .overlay-text {
-    opacity: 1;
-  }
-</style>
