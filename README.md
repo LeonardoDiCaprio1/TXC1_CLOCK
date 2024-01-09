@@ -15,4 +15,13 @@
 # 大作业实物展示
 - [哔哩哔哩](https://www.bilibili.com/video/BV1Sa4y127hj/)
 
-[<img src="https://github.com/LeonardoDiCaprio1/TXC1_CLOCK/blob/main/%E5%AE%9E%E7%89%A9.jpg" alt="bilibili" width="700">](https://www.bilibili.com/video/BV1Sa4y127hj/)
+[![bilibili](https://github.com/LeonardoDiCaprio1/TXC1_CLOCK/blob/main/%E5%AE%9E%E7%89%A9.jpg)](https://www.bilibili.com/video/BV1Sa4y127hj/)
+
+<div align="center">
+  <a href="https://www.bilibili.com/video/BV1Sa4y127hj/" target="_blank">
+    <img src="https://github.com/LeonardoDiCaprio1/TXC1_CLOCK/blob/main/%E5%AE%9E%E7%89%A9.jpg" alt="bilibili" width="700">
+  </a>
+  <br>
+  <strong><a href="https://www.bilibili.com/video/BV1Sa4y127hj/" target="_blank">进入</a></strong>
+</div>
+
