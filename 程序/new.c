@@ -145,7 +145,7 @@ void LcdDisplay() {
 		fen_arrive_flag = 0;
 	}
 	if (shi_arrive_flag == 1) {
-		write_sfm2(12, T_shi);
+		write_sfm2(6, T_shi);
 		write_add(4, T_shi);
 		shi_arrive_flag = 0;
 	}
